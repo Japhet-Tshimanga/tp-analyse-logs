@@ -14,5 +14,5 @@ DATE;HEURE;IP_SOURCE;PORT;PROTOCOLE;STATUT
 ## Pour exécuter 
 Ecrire la commande : py python
 - Les statistiques sont affichées à l'écran.
-- Un fichier créé dans le dossier ou se trouve le programme : 
+- Un fichier créé dans le dossier ou se trouve le programme
 
